@@ -34,12 +34,12 @@ padding-left:25px;
 background-color:#006680;
 }
 
-* html #menulinks a { /* Filter for IE6 to prevent li stacking */
+* html #menulinks a { 
   float: left;
   text-decoration: none;
   }
 
-* html #menulinks a span { /* Filter for IE6 to prevent li stacking */
+* html #menulinks a span { 
   float: left;
   text-decoration: none;
   }
